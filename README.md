@@ -15,18 +15,8 @@ Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ba
 <br/>
 <br/>
 
-
-
 ### <a href="#"><img alt="Github" height="24" src="https://www.pngrepo.com/png/303615/180/github-icon-1-logo.png"/></a> GitStatus:
-<a href="#"><img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&bg_color=45,E76549,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true" /></a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charoleizer&bg_color=45,E76549,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true)
 
 <p align="right">
 <a href="#"><img alt="Embarcadero" height="24" src="https://www.embarcadero.com/images/logos/logo-page/preview_EMBT_Primary_Logo_Black.png" /></a>
@@ -36,7 +26,6 @@ Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ba
 </p>
 
 <br/>
-
 
 [<img align="right" alt="Victor Tadashi | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
 [<img align="right" alt="Victor Tadashi | Instagram" width="24px" src="https://www.pngrepo.com/png/111199/180/instagram.png" />][instagram]
