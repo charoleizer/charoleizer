@@ -13,7 +13,7 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 
 <img align="left" alt="Share" height="16" src="https://www.pngrepo.com/png/261825/180/share.png"/> - Half-collaborator at Brasil.IO (https://brasil.io/home/) , specificaly helping with Covid-19 database.
 
-
+<br />
 
 ### Skills:<img align="left" alt="Skills" height="24" src="https://www.pngrepo.com/png/228337/180/skill.png"/>
 
@@ -23,15 +23,15 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 <img align="left" alt="Docker" height="25" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" />
 
 
-
+<br />
 
 ### GitStatus:<img align="left" alt="Github" height="24" src="https://www.pngrepo.com/png/303615/180/github-icon-1-logo.png"/>
 <img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&show_icons=true&hide_border=true" />
 
 
+<br />
 
-
-### Bonus:
+### Social:
 [<img align="left" alt="Victor Tadashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Victor Tadashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Victor Tadashi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
