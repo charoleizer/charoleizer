@@ -1,4 +1,5 @@
-### <a href="#"><img alt="Hello" height="24" src="https://www.pngrepo.com/png/42915/180/hello-speech-bubble-handmade-chatting-symbol.png"/></a> Hi there
+<a href="#"><img alt="Hello" height="24" src="https://www.pngrepo.com/png/42915/180/hello-speech-bubble-handmade-chatting-symbol.png"/></a>
+
 My name is Victor Tadashi Yamashita Zanella, I was born in Japan and came to Brazil in 2006.
 <br />
 I like to meet my friends and talk about technologies, issues, problems … in short, I enjoy bullshitting with my friends. Most of the ideas come out of this.
