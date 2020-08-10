@@ -24,7 +24,7 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 
 
 ---
-### git status:
+### GitStatus:
 <img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&show_icons=true&hide_border=true" />
 
 
