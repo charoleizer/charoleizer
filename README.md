@@ -28,9 +28,6 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 <img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&show_icons=true&hide_border=true" />
 
 
-
-
----
 ### Bonus:
 [<img align="left" alt="Victor Tadashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Victor Tadashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
