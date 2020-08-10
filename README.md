@@ -11,8 +11,9 @@ Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ba
 > 💻 - Freelancer (on spare time) as UI Designer using figma as main tool   
 > 🌱 - Half-collaborator at Brasil.IO (https://brasil.io/home/) , specificaly helping with Covid-19 database. 
 
-
-
+<br/>
+<br/>
+<br/>
 
 
 
