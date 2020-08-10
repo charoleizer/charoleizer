@@ -5,7 +5,7 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 
 <img align="left" alt="Sword" height="16" src="https://www.pngrepo.com/png/276072/180/sword.png"/> - Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ball Z" and well, I hope it grows asap. 
 
-<img align="left" alt="Office" height="16" src="https://www.pngrepo.com/png/81471/180/office.png"/> - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead
+<img align="left" alt="Job" height="16" src="https://www.pngrepo.com/png/205977/180/id-card-business.png"/> - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead
 
 <img align="left" alt="Book" height="16" src="https://www.pngrepo.com/png/19554/180/book.png"/> - Interested in learning about Computer Vision and Python because it’s something I wold like to work in the future
 
