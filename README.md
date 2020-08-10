@@ -2,14 +2,16 @@
 My name is Victor Tadashi Yamashita Zanella, I was born in Japan and came to Brazil in 2006.
 <br />
 I like to meet my friends and talk about technologies, issues, problems … in short, I enjoy bullshitting with my friends. Most of the ideas come out of this.
+Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ball Z" and well, I hope it grows asap.
 
-<a href="#"><img alt="Sword" height="16" src="https://www.pngrepo.com/png/276072/180/sword.png"/></a> - Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ball Z" and well, I hope it grows asap.   
-<a href="#"><img alt="Job" height="16" src="https://www.pngrepo.com/png/205977/180/id-card-business.png"/></a> - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead   
-<a href="#"><img alt="Book" height="16" src="https://www.pngrepo.com/png/19554/180/book.png"/></a> - Interested in learning about Computer Vision and Python because it’s something I wold like to work in the future   
-<a href="#"><img alt="Notebook" height="16" src="https://www.pngrepo.com/png/288628/180/macbook.png"/></a> - Freelancer (on spare time) as UI Designer using figma as main tool   
-<a href="#"><img alt="Share" height="16" src="https://www.pngrepo.com/png/261825/180/share.png"/></a> - Half-collaborator at Brasil.IO (https://brasil.io/home/) , specificaly helping with Covid-19 database.   
 
-<br/>
+> 🧑‍💼 - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead   
+> 📖 - Interested in learning about Computer Vision and Python because it’s something I wold like to work in the future   
+> 💻 - Freelancer (on spare time) as UI Designer using figma as main tool   
+> 🌱 - Half-collaborator at Brasil.IO (https://brasil.io/home/) , specificaly helping with Covid-19 database. 
+
+
+
 
 
 
