@@ -18,7 +18,7 @@ Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ba
 
 
 ### <a href="#"><img alt="Github" height="24" src="https://www.pngrepo.com/png/303615/180/github-icon-1-logo.png"/></a> GitStatus:
-<a href="#"><img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&theme=synthwave&show_icons=true&hide_border=true" /></a>
+<a href="#"><img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&bg_color=45,E76549,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true" /></a>
 
 <br/>
 <br/>
