@@ -17,7 +17,12 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 <a href="#"><img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&show_icons=true&hide_border=true" /></a>
 
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p align="right">
 <a href="#"><img alt="Embarcadero" height="24" src="https://www.embarcadero.com/images/logos/logo-page/preview_EMBT_Primary_Logo_Black.png" /></a>
@@ -27,6 +32,7 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 </p>
 
 <br/>
+
 
 [<img align="right" alt="Victor Tadashi | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
 [<img align="right" alt="Victor Tadashi | Instagram" width="24px" src="https://www.pngrepo.com/png/111199/180/instagram.png" />][instagram]
