@@ -19,7 +19,7 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 <br/>
 
 
-<p align="center">
+<p align="right">
 <a href="#"><img alt="Embarcadero" height="24" src="https://www.embarcadero.com/images/logos/logo-page/preview_EMBT_Primary_Logo_Black.png" /></a>
 <a href="#"><img alt="Python" height="24" src="https://www.python.org/static/img/python-logo.png" /></a>
 <a href="#"><img alt="Figma" height="24" src="https://www.pendo.io/wp-content/uploads/2020/06/figma-logo.png" /></a>
@@ -28,11 +28,9 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 
 <br/>
 
-
-### <a href="#"><img alt="Contacts" height="24" src="https://www.pngrepo.com/png/43204/180/contacts.png"/></a> Contacts:
-[<img align="left" alt="Victor Tadashi | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
-[<img align="left" alt="Victor Tadashi | Instagram" width="24px" src="https://www.pngrepo.com/png/111199/180/instagram.png" />][instagram]
-[<img align="left" alt="Victor Tadashi | Facebook" width="24px" src="https://www.pngrepo.com/png/157810/180/facebook.png" />][facebook]
+[<img align="right" alt="Victor Tadashi | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
+[<img align="right" alt="Victor Tadashi | Instagram" width="24px" src="https://www.pngrepo.com/png/111199/180/instagram.png" />][instagram]
+[<img align="right" alt="Victor Tadashi | Facebook" width="24px" src="https://www.pngrepo.com/png/157810/180/facebook.png" />][facebook]
 
 <br/>
 
