@@ -16,11 +16,12 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 <br/>
 
 
-### <a href="#"><img alt="Skills" height="24" src="https://www.pngrepo.com/png/228337/180/skill.png"/></a> Skills:
-<img align="left" alt="Embarcadero" height="25" src="https://www.embarcadero.com/images/logos/logo-page/preview_EMBT_Primary_Logo_Black.png" />
-<img align="left" alt="Python" height="25" src="https://www.python.org/static/img/python-logo.png" />
-<img align="left" alt="Python" height="25" src="https://www.pendo.io/wp-content/uploads/2020/06/figma-logo.png" />
-<img align="left" alt="Docker" height="25" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" />
+<p align="center">
+<img alt="Embarcadero" height="24" src="https://www.embarcadero.com/images/logos/logo-page/preview_EMBT_Primary_Logo_Black.png" />
+<img alt="Python" height="24" src="https://www.python.org/static/img/python-logo.png" />
+<img alt="Figma" height="24" src="https://www.pendo.io/wp-content/uploads/2020/06/figma-logo.png" />
+<img alt="Docker" height="24" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" />
+</p>
 
 <br/>
 
@@ -31,7 +32,7 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 <br/>
 
   
-### Social:
+### Contacts:
 [<img align="left" alt="Victor Tadashi | LinkedIn" width="24px" src="https://www.pngrepo.com/png/75820/180/linkedin.png" />][linkedin]
 [<img align="left" alt="Victor Tadashi | Instagram" width="24px" src="https://www.pngrepo.com/png/111199/180/instagram.png" />][instagram]
 [<img align="left" alt="Victor Tadashi | Facebook" width="24px" src="https://www.pngrepo.com/png/157810/180/facebook.png" />][facebook]
@@ -42,3 +43,8 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 [linkedin]: https://www.linkedin.com/in/victor-tadashi/
 [instagram]: https://www.instagram.com/victor.t.y.z
 [facebook]: https://www.facebook.com/victor.t.y.z
+
+[embarcadero]: https://www.embarcadero.com/
+[python]: https://www.python.org/
+[figma]: https://www.figma.com/
+[docker]: https://www.docker.com/
