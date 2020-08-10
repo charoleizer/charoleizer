@@ -14,7 +14,7 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 
 
 ### <a href="#"><img alt="Github" height="24" src="https://www.pngrepo.com/png/303615/180/github-icon-1-logo.png"/></a> GitStatus:
-<img align="center" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&show_icons=true&hide_border=true" />
+<a href="#"><img align="left" alt="Victor Tadashi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charoleizer&show_icons=true&hide_border=true" /></a>
 
 <br/>
 
