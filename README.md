@@ -20,7 +20,7 @@ Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ba
 
 <p align="right">
 <a href="#"><img alt="Embarcadero" height="24" src="https://www.embarcadero.com/images/logos/logo-page/preview_EMBT_Primary_Logo_Black.png" /></a>
-<a href="#"><img alt="Python" height="24" src="https://www.python.org/static/img/python-logo.png" /></a>
+<a href="#"><img alt="Python" height="24" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" /></a>
 <a href="#"><img alt="Figma" height="24" src="https://www.pendo.io/wp-content/uploads/2020/06/figma-logo.png" /></a>
 <a href="#"><img alt="Docker" height="24" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" /></a>
 </p>
