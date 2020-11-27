@@ -6,10 +6,9 @@ I like to meet my friends and talk about technologies, issues, problems … in s
 Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ball Z" and well, I hope it grows asap.
 
 
-> 🧑‍💼 - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead   
+> 💻 - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead   
 > 📖 - Interested in learning about Computer Vision and Python because it’s something I'd like to work in the future   
-> 💻 - Freelancer (on spare time) as UI Designer using figma as main tool   
-> 🌱 - Half-collaborator at Brasil.IO (https://brasil.io/home/) , specificaly helping with Covid-19 database. 
+> 🌱 - Freelancer (on spare time) as UI Designer using figma as main tool   
 
 <br/>
 <br/>
