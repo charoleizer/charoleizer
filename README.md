@@ -7,7 +7,7 @@ Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ba
 
 
 > 💻 - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead   
-> 📖 - Interested in learning about Computer Vision and Python because it’s something I'd like to work in the future   
+> 📖 - Interested in learning everything about Python and Elixir  
 > 🌱 - Freelancer (on spare time) as UI Designer using figma as main tool   
 
 <br/>
