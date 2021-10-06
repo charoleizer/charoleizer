@@ -5,11 +5,6 @@ My name is Victor Tadashi Yamashita Zanella, I was born in Japan and came to Bra
 I like to meet my friends and talk about technologies, issues, problems … in short, I enjoy bullshitting with my friends. Most of the ideas come out of this.
 Recently, I started my own collection about "The Legend of Zelda" and "Dragon Ball Z" and well, I hope it grows asap.
 
-
-> 💻 - Current employeed by [Sysmo](https://www.sysmo.com.br/) as TechLead   
-> 📖 - Interested in learning everything about Python and Elixir  
-> 🌱 - Freelancer (on spare time) as UI Designer using figma as main tool   
-
 <br/>
 <br/>
 <br/>
