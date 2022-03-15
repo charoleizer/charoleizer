@@ -1,6 +1,6 @@
 Hi, I'm Victor Tadashi, a fan of "The Legend of Zelda" and "Dragon Ball"
 <br />
-Golang and Ruby on Rails Engineer, also dabbled in Delphi, Python, Postgresql, MongodDB, Docker, aws/gcp.
+Golang, Ruby and Python developer, also dabbled in Delphi, Postgresql, MongodDB, Docker, aws/gcp.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charoleizer&bg_color=45,E76549,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true)
 
