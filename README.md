@@ -2,7 +2,7 @@ Hi, I'm Victor Tadashi, a collector/fan of "The Legend of Zelda", "Dragon Ball",
 <br />
 <br />
 
-<h3 align="center"><a href="#"><img alt="link-8bit" height="36" src="https://raw.githubusercontent.com/gist/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif"/></a>
+<h3 align="center"><a href="#"><img alt="link-8bit" height="180" src="https://pbs.twimg.com/media/DDWqkrFUMAAbIyL.png"/></a>
 </h3>
 
 Go/Golang developer, with experience (as backend developer) in a Stock Exchange App.
