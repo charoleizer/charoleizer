@@ -1,11 +1,11 @@
-Hi, I'm Victor Tadashi, a collector/fan of "The Legend of Zelda", "Dragon Ball", "One Piece" and a Coffe lover 
+Hi, I'm Victor Tadashi, a fan of "The Legend of Zelda", "Dragon Ball" and "One Piece"
 <br />
 <br />
 
 <h3 align="center"><a href="#"><img alt="link-8bit" height="180" src="https://pbs.twimg.com/media/DDWqkrFUMAAbIyL.png"/></a>
 </h3>
 
-Go/Golang developer, with experience as backend developer
+Go/Golang backend developer
 
 Also experienced in Delphi, Postgresql and GCP
 <br />
